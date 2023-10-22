@@ -1,0 +1,2 @@
+import{T as e}from"./index-8d66075e.js";import"./index-a99a8bc6.js";import"./_commonjsHelpers-de833af9.js";import"./extends-98964cd2.js";import"./jsx-runtime-fc9fa0e1.js";const d={title:"Data display/Tooltip",component:e,args:{variant:"primary",disabled:!0}},r={};var o,t,a;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:"{}",...(a=(t=r.parameters)==null?void 0:t.docs)==null?void 0:a.source}}};const l=["Primary"];export{r as Primary,l as __namedExportsOrder,d as default};
+//# sourceMappingURL=Tooltip.stories-98356787.js.map
