@@ -1,5 +1,11 @@
 # @gaindev-ui/tokens
 
+## 2.0.0
+
+### Major Changes
+
+- Create new component. Component Toast.
+
 ## 1.2.0
 
 ### Minor Changes

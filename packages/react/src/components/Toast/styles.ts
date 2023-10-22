@@ -86,15 +86,14 @@ export const ToastDescription = styled(Toast.Description, {
 
 export const ToastAction = styled(Toast.Action, {
   gridArea: 'action',
+  transform: 'translate(55px, -25px)',
+  margin: '20px',
 })
 
 export const ButtonClosed = styled(X, {
   color: '$gray200',
   width: '20px',
   height: '20px',
-  position: 'absolute',
-  top: '$10',
-  right: '$10',
 })
 
 export const ToastViewPort = styled(Toast.Viewport, {
