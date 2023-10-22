@@ -32,5 +32,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          TURBO_TOKEN: cM1dx4P7JchxGIz0i5ZJIP4C
+          TURBO_TOKEN:  ${{ secrets.VERCEL_TOKEN }} 
           TURBO_TEAM: teams/vinicius-projects-a0597f91
