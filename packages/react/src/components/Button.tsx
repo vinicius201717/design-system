@@ -27,6 +27,10 @@ export const Button = styled('button', {
     height: '16px',
   },
 
+  '&:focus': {
+    boxShadow: '0 0 0 2px $colors$gray100',
+  },
+
   variants: {
     variant: {
       primary: {
